@@ -13,6 +13,10 @@ import { EditTripComponent } from './edit-trip/edit-trip.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { LoginComponent } from './login/login.component';
 import { HomeComponent } from './home/home.component';
+import { NewsComponent } from './news/news.component';
+import { RoomsComponent } from './rooms/rooms.component';
+import { MealsComponent } from './meals/meals.component';
+import { AboutComponent } from './about/about.component';
 
 
 @NgModule({
@@ -25,6 +29,10 @@ import { HomeComponent } from './home/home.component';
     NavbarComponent,
     LoginComponent,
     HomeComponent,
+    NewsComponent,
+    RoomsComponent,
+    MealsComponent,
+    AboutComponent,
     
   ],
   imports: [

@@ -1,5 +1,6 @@
 import { Injectable, Inject } from '@angular/core';
 import { Http } from '@angular/http';
+import { HttpHeaders } from '@angular/common/http';
 
 import { AuthResponse } from '../models/authresponse';
 import { BROWSER_STORAGE } from '../storage';
