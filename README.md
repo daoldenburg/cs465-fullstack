@@ -26,4 +26,5 @@ This project is a web application for Travlr, a fictional travel company. It was
 But, without a doubt, the biggest thing this course has done for me is to give me a bird's-eye view of software development. Going through the entire MEAN stack, and building the entire application piece by piece over the course of eight weeks, has given greater context to the logical and physical structure of a web-based application. While I still have a lot more to learn, I feel like seeing and building the application in its entirety has gotten me to the point where "I know enough to know what I don't know". This, combined with exposure to powerful technologies such as Angular, means I now have all the tools I need to start prototyping my own web applications, to explore other software stacks like MERN or LAMP, and to generally improve my skills as a full stack developer.
 
 **References**
+
 Giamas, A. (2019). Chapter 1: MongoDB - A Database for Modern Web. In *Mastering MongoDB 4.x: Expert techniques to run high-volume and fault-tolerant database solutions using MongoDB 4.x* (pp. 11-17). Birmingham: Packt Publishing.
