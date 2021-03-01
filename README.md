@@ -1,7 +1,7 @@
-# cs465-fullstack
+# README: cs465-fullstack
 CS-465 Full Stack Development with MEAN
 
-This project was developed to illustrate an implementation of the MEAN (MongoDB, Express, Angular, Node) software stack. 
+This project is a web application for Travlr, a fictional travel company. It was developed to illustrate an implementation of the MEAN (MongoDB, Express, Angular, Node) software stack. 
 
 **Architecture**
 
